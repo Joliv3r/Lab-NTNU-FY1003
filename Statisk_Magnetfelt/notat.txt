@@ -1,0 +1,12 @@
+t: stnd deviation, mean
+1s: 9*10^-7, -3*10^-6
+10s: 2*10^-6, 2*10^⁻6
+100s: 1*10^⁻5, -2*10^⁻5
+
+lengde Helmholtz 'R/2': 3.8
+lengde Solenoide: 42.0 cm
+
+Interface: 20634
+PSU: E3244
+Multimeter: L-0118
+Magnetfeltmåler: PC4101C
